@@ -11,7 +11,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Testing...'
+                echo 'This is test phase'
                 // Example: Run tests
                 // sh './run-tests.sh'
             }
