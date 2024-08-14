@@ -1,2 +1,2 @@
-# jenkins-github-sample
+# Jenkins-Github-Sample
 Jenkins Github Demo
