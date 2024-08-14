@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Deploying...'
+                echo 'Deploy Phase'
                 // Example: Deploy to production
                 // sh './deploy.sh'
             }
