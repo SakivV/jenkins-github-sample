@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building...'
+                echo 'This is build phase'
                 // Example: Run a build script
                 // sh './build.sh'
             }
